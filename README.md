@@ -204,5 +204,6 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
 #### Evaluation Evidence
 Below are the three initial screenshots of compiling the 3 contracts ( KaseiCoin, KaseiCoinCrowdSale, KaseiCoinDeployer)
 ![KaseiCoin](https://github.com/natenet8787/Challenge21/blob/main/Execution/Compiled%20KaseiCoin%20contract.png?raw=true)
-
+![KaseiCoinCrowdsale](https://github.com/natenet8787/Challenge21/blob/main/Execution/Compiled%20crowdsale%20contract.png?raw=true)
+![KaseiCoinDeployer](https://github.com/natenet8787/Challenge21/blob/main/Execution/Compiled%20deployer.png?raw=true)
 

@@ -209,8 +209,18 @@ Below are the three initial screenshots of compiling the 3 contracts ( KaseiCoin
 Once contracts are compiled you must deploy the 3 contracts. The results should look like the below screenshots. 
 ![Deployed1](https://github.com/natenet8787/Challenge21/blob/main/Execution/deployed1.PNG?raw=true)
 ![Deployed2](https://github.com/natenet8787/Challenge21/blob/main/Execution/deployed2.PNG?raw=true)
+
 You will then need to use a ganache account and link one of your accounts for the deployer contract this will allow you to link your metamask when initiated. Should look like the following 
 ![Meta1](https://github.com/natenet8787/Challenge21/blob/main/Execution/Deployer.png?raw=true)
+
 You will be able to see the contract creation in ganache
 ![Ganache1](https://github.com/natenet8787/Challenge21/blob/main/Execution/ganache.PNG?raw=true)
+
+Once completed you can use the contracts to buy KaseiCoins and send them to different accounts via metamask
+![Meta2](https://github.com/natenet8787/Challenge21/blob/main/Execution/Remix%20-%20Ethereum%20IDE%20-%20Google%20Chrome%2011_28_2021%209_11_26%20PM.png?raw=true)
+![Ganache2](https://github.com/natenet8787/Challenge21/blob/main/Execution/ganache2.PNG?raw=true)
+![TotalSupply](https://github.com/natenet8787/Challenge21/blob/main/Execution/total%20supply.PNG?raw=true)
+
+
+
 
